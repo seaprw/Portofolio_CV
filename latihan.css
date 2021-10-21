@@ -1,0 +1,14 @@
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+
+.images-cards{
+    size: 15px;
+}
+
+section {
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+}
